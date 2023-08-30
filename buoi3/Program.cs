@@ -10,6 +10,7 @@ namespace buoi3
     {
         static void Main(string[] args)
         {
+            
             SinhVien sv1 = new SinhVien(2001207444, "Nguyen Huu Dai", -1, -2);
             Console.WriteLine(sv1);
 

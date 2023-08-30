@@ -23,7 +23,7 @@ namespace buoi3
 
         public override string ToString()
         {
-            return "Ma SV:" + MaSinhVien + "  " + "Ho ten:" + HoTen + "  " + "Điem LT:" + DiemLT + "  " + "Điem TH:" + DiemTH;
+            return "  Ma SV:" + "                   Ho ten: " + "                   Điem LT:" + "                   Điem TH:\n" + MaSinhVien + "            " + HoTen + "                     " + DiemTH + "                           " + DiemLT +"\n";
 
         }
 
